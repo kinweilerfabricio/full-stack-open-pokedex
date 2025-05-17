@@ -15,3 +15,4 @@ jobs:
       - name: mostrar fecha
         run: date
       - run: ls -l
+        shell: bash
